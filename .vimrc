@@ -34,7 +34,7 @@ let g:indent_guides_enable_on_vim_startup = 1
 
 " airline
 let g:airline#extensions#tabline#enabled = 1 " show buffer tab on the upper line
-" let g:airline_powerline_fonts = 1 " use powerline font
+let g:airline_powerline_fonts = 1 " use powerline font
 
 " autocmd
 autocmd vimenter * NERDTree
