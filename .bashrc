@@ -116,5 +116,4 @@ if ! shopt -oq posix; then
   fi
 fi
 
-
-DISPLAY=localhost:0.0
+export DISPLAY=:0
