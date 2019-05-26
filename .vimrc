@@ -19,7 +19,9 @@ Plug 'airblade/vim-gitgutter' " show difference from HEAD in Git
 Plug 'tpope/vim-fugitive' " add git commands
 Plug 'Xuyuanp/nerdtree-git-plugin' " show git status on status bar
 Plug 'nathanaelkane/vim-indent-guides' " show tab indent
-
+Plug 'OmniSharp/omnisharp-vim' " C# auto completion
+Plug 'JuliaEditorSupport/julia-vim' " julia auto completion
+     
 call plug#end()
 
 
