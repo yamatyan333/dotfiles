@@ -4,8 +4,8 @@ My dotfile Collection
 
 ## Set up TMUX
 
-- Clone TPM  
+1. Clone TPM  
 ```  $ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm ```
-- To install plugins writtend in config files ``` prefix ``` + ```I```
-- If something goes wrong, please refer [TPM original repository](https://github.com/tmux-plugins/tpm) .
+2. To install plugins written in ``` .tmux.conf```, press ``` prefix ``` + ```I```.
+3. If something goes wrong, please refer [TPM original repository](https://github.com/tmux-plugins/tpm) .
 
