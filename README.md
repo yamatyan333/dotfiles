@@ -1,6 +1,14 @@
 # dotfiles
 My dotfile Collection
 
+## Set up Home Dir
+```rm .bashrc```
+```ln -s ~/.bashrc dotfiles/.bashrc```
+```ln -s ~/.gitconfig dotfiles/.gitconfig```
+```ln -s ~/.gitignore dotfiles/.gitignore```
+```ln -s ~/.tmux.conf dotfiles/.tmux.conf```
+```ln -s ~/.vimrc dotfiles/.vimrc```
+
 
 ## Set up TMUX
 
