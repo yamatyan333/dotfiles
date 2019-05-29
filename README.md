@@ -22,6 +22,5 @@ My dotfile Collection
 
 ## Set up Vim
 1. Install vim-plug.
- - ``` curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-            https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim ```
+ - ``` curl -fLo ~/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim ```
 2. If something goes wrong, please refer [vim-plug original repository](https://github.com/junegunn/vim-plug) .
