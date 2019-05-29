@@ -2,7 +2,7 @@
 My dotfile Collection
 
 ## Set up Home Dir
- 1. Remove existing Config files. 
+ 1. Rename or Remove existing Config files. 
   - ex.) ```rm .bashrc```
  2. Make symbolic links.
   - ```ln -s ~/.bashrc dotfiles/.bashrc```
@@ -19,3 +19,9 @@ My dotfile Collection
 2. To install plugins written in ``` .tmux.conf```, press ``` prefix ``` + ```I```.
 3. If something goes wrong, please refer [TPM original repository](https://github.com/tmux-plugins/tpm) .
 
+
+## Set up Vim
+1. Install vim-plug.
+ - ``` curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+            https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim ```
+2. If something goes wrong, please refer [vim-plug original repository](https://github.com/junegunn/vim-plug) .
