@@ -5,11 +5,11 @@ My dotfile Collection
  1. Rename or Remove existing Config files. 
   - ex.) ```rm .bashrc```
  2. Make symbolic links.
-  - ```ln -s ~/.bashrc dotfiles/.bashrc```
-  - ```ln -s ~/.gitconfig dotfiles/.gitconfig```
-  -  ```ln -s ~/.gitignore dotfiles/.gitignore```
-  - ```ln -s ~/.tmux.conf dotfiles/.tmux.conf```
-  - ```ln -s ~/.vimrc dotfiles/.vimrc```
+  - ```ln -s dotfiles/.bashrc ~/.bashrc ```
+  - ```ln -s dotfiles/.gitconfig ~/.gitconfig```
+  -  ```ln -s dotfiles/.gitignore ~/.gitignore```
+  - ```ln -s dotfiles/.tmux.conf ~/.tmux.conf```
+  - ```ln -s dotfiles/.vimrc ~/.vimrc```
 
 
 ## Set up TMUX
