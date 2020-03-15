@@ -21,7 +21,9 @@ Plug 'Xuyuanp/nerdtree-git-plugin' " show git status on status bar
 Plug 'nathanaelkane/vim-indent-guides' " show tab indent
 Plug 'OmniSharp/omnisharp-vim' " C# auto completion
 Plug 'JuliaEditorSupport/julia-vim' " julia auto completion
-     
+Plug 'mattn/emmet-vim' " for HTML
+
+
 call plug#end()
 
 
