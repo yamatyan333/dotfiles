@@ -4,12 +4,14 @@ My dotfile Collection
 ## Set up Home Dir
  1. Rename or Remove existing Config files. 
   - ex.) ```rm .bashrc```
+ 2. Move home directory, 
+  - ``` cd ~/. ```
  2. Make symbolic links.
-  - ```ln -s dotfiles/.bashrc ~/.bashrc ```
-  - ```ln -s dotfiles/.gitconfig ~/.gitconfig```
-  -  ```ln -s dotfiles/.gitignore ~/.gitignore```
-  - ```ln -s dotfiles/.tmux.conf ~/.tmux.conf```
-  - ```ln -s dotfiles/.vimrc ~/.vimrc```
+  - ```ln -s dotfiles/.bashrc ```
+  - ```ln -s dotfiles/.gitconfig ```
+  -  ```ln -s dotfiles/.gitignore ```
+  - ```ln -s dotfiles/.tmux.conf ```
+  - ```ln -s dotfiles/.vimrc ```
 
 
 ## Set up TMUX
